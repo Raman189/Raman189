@@ -2,66 +2,32 @@
 
 ### 💻 Software Developer | Frontend Developer | Full-Stack Enthusiast
 
-I’m a Computer Science & Engineering graduate passionate about building **modern, scalable and user-friendly web applications**.
+I'm a **Computer Science & Engineering graduate** passionate about building modern, responsive, and user-friendly web applications.
 
-I have hands-on experience working with **React.js, Next.js, JavaScript, Python, SQL and modern UI frameworks**, and I enjoy turning ideas into real-world products.
+I have **1+ year of professional experience** in web development, with hands-on experience in **React.js, Next.js, JavaScript, Python, SQL, UI development, testing, and website operations**.
 
-Currently, I'm strengthening my **DSA, backend development, software testing and system design** skills while building production-style projects.
+I enjoy turning ideas into real-world applications and continuously improving my problem-solving and development skills.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering — 2026
 * 💼 1+ year of professional development experience
-* 🌱 Currently improving my **Python, DSA, SQL and backend development** skills
-* 💻 Interested in **Frontend & Full-Stack Development**
+* 💻 Focused on **Frontend & Full-Stack Development**
+* ⚛️ Experienced with **React.js and Next.js**
+* 🐍 Currently strengthening **Python & Django**
+* 🗄️ Improving my **SQL & Database** skills
+* 🧠 Currently practicing **DSA & Problem Solving**
 * 🧪 Interested in **Software Testing & Automation**
-* 🛠️ I enjoy building real-world applications rather than only tutorial projects
-* 📚 Always learning something new
+* 🚀 Passionate about building real-world projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### UI & Styling
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Testing & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,django,mysql,tailwind,mui,playwright,git,github,vscode" />
 </p>
 
 ---
@@ -70,115 +36,183 @@ Currently, I'm strengthening my **DSA, backend development, software testing and
 
 ### 📊 RetailIQ — AI Retail Operations Dashboard
 
-A modern dashboard designed to help retail businesses monitor operations, sales, inventory and business performance.
+A modern retail operations dashboard designed to help businesses monitor sales, inventory, operations, and business performance.
 
-**Tech:** React.js • Next.js • Python • SQL • REST APIs
+**Key Features**
+
+* 📈 Business analytics dashboard
+* 📦 Inventory monitoring
+* 💰 Sales insights
+* 📊 Data visualization
+* 👥 User-friendly dashboard interface
+* 🔐 Role-based functionality
+
+**Tech Stack**
+
+`React.js` `Next.js` `Python` `SQL` `REST API`
 
 ---
 
 ### 📋 Project Management Platform
 
-A full-stack project management application inspired by tools like Jira and ClickUp.
+A full-stack project management application inspired by platforms such as Jira and ClickUp.
 
-**Features:**
+**Key Features**
 
-* Role-based access
-* Projects & workspaces
-* Tasks and task status
-* Team management
-* Dashboard
-* Authentication
-* REST API
+* 🏢 Workspace management
+* 📁 Project management
+* ✅ Task management
+* 👥 Team management
+* 📊 Project dashboard
+* 🔐 Authentication
+* 🛡️ Role-based access
+* 🔄 REST API integration
 
-**Tech:** Next.js • React • Django • SQL
+**Tech Stack**
+
+`Next.js` `React.js` `Django` `SQL` `REST API`
 
 ---
 
 ### 💰 Money Management Dashboard
 
-A personal finance application for tracking income, expenses and financial activity through an interactive dashboard.
+A personal finance management application designed to help users track income, expenses, and financial activity through an interactive dashboard.
 
-**Tech:** React.js • JavaScript • SQL • REST API
+**Key Features**
+
+* 💵 Income tracking
+* 💸 Expense tracking
+* 📊 Financial dashboard
+* 🏷️ Expense categorization
+* 📈 Financial insights
+* 📱 Responsive UI
+
+**Tech Stack**
+
+`React.js` `JavaScript` `SQL` `REST API`
 
 ---
 
 ### 🍔 Food & Grocery Delivery Application
 
-A responsive food and grocery delivery web application focused on modern UI, product discovery and user experience.
+A responsive food and grocery delivery web application focused on product discovery, modern UI, and a smooth user experience.
 
-**Tech:** React.js • JavaScript • HTML • CSS • Material UI
+**Key Features**
+
+* 🍕 Food/product browsing
+* 🛒 Shopping cart
+* 🔎 Product search
+* 🏷️ Categories
+* 📱 Responsive design
+* 🎨 Modern UI
+
+**Tech Stack**
+
+`React.js` `JavaScript` `HTML` `CSS` `Material UI`
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Software / Web Developer
 
-Worked on modern web applications and contributed to frontend development, UI implementation, website operations and product development.
+Worked on web applications and contributed to frontend development, UI implementation, website operations, testing, and product development.
 
-**Key areas:**
+**Responsibilities & Contributions**
 
-* React.js development
-* Responsive UI development
-* API integration
-* UI component development
-* Website optimization
-* Testing and debugging
-* Git/GitHub workflow
+* ⚛️ Developed interfaces using React.js
+* 🎨 Built responsive and reusable UI components
+* 🔌 Integrated APIs with frontend applications
+* 🧩 Worked with modern UI libraries
+* 🐛 Debugged and resolved application issues
+* 🧪 Performed application testing
+* 🔀 Used Git & GitHub for version control
+* 🌐 Worked on website operations and optimization
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-DSA with Python
-        ↓
-Advanced Python
-        ↓
-Django & REST APIs
-        ↓
-SQL & Database Design
-        ↓
-System Design
-        ↓
-Testing & Automation
-```
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raman189\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman189\&layout=compact\&theme=tokyonight)
+<table>
+<tr>
+<td align="center">🧠<br><b>DSA</b></td>
+<td align="center">🐍<br><b>Advanced Python</b></td>
+<td align="center">🌐<br><b>Django</b></td>
+<td align="center">🗄️<br><b>SQL</b></td>
+<td align="center">🏗️<br><b>System Design</b></td>
+<td align="center">🧪<br><b>Automation Testing</b></td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build production-level full-stack applications
-* 🧠 Become strong in DSA & problem solving
-* 🐍 Master Python & Django
-* 🗄️ Improve SQL & database design
-* 🧪 Improve automation testing skills
-* 🌐 Contribute to open-source projects
-* 💼 Join a strong software development team
+* 🧠 Become strong in **DSA & Problem Solving**
+* 🐍 Master **Python & Django**
+* ⚛️ Improve **React & Next.js**
+* 🗄️ Strengthen **SQL & Database Design**
+* 🏗️ Learn **System Design**
+* 🧪 Improve **Automation Testing**
+* 🌎 Contribute to **Open Source**
+* 🚀 Build more production-level applications
+* 💼 Grow as a professional Software Developer
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Statistics
 
-<p>
-  <a href="https://www.linkedin.com/in/raman-vanjare-062aa727b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Raman189">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raman189&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman189&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-⭐ **If you find my projects useful, consider giving them a star!**
+## 🔥 GitHub Streak
 
-> *"Build. Learn. Improve. Repeat."*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raman189&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raman189&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/raman-vanjare-062aa727b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Raman189">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 My Development Philosophy
+
+> **Build → Break → Debug → Learn → Improve → Repeat**
+
+I believe the best way to learn software development is by **building real projects, solving problems, debugging mistakes, and continuously improving**.
+
+---
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
