@@ -1,175 +1,84 @@
-# 👋 Hi, I'm Raman Vanjare
+# Raman Vanjare
+### Frontend Developer | React.js & Next.js | Growing into Python Full-Stack + Gen AI
 
-### 💻 Software Developer | Frontend Developer | Full-Stack Enthusiast
+I build production-grade web applications with React.js, Next.js, and Python — with a focus on clean UI, API integration, and shipping things that actually work end to end. Currently deepening my Python skills to move into full-stack development with Gen AI integration. B.Tech CSE, 2026. 1+ year professional experience.
 
-I'm a **Computer Science & Engineering graduate** passionate about building modern, responsive, and user-friendly web applications.
-
-I have **1+ year of professional experience** in web development, with hands-on experience in **React.js, Next.js, JavaScript, Python, SQL, UI development, testing, and website operations**.
-
-I enjoy turning ideas into real-world applications and continuously improving my problem-solving and development skills.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech in Computer Science & Engineering — 2026
-* 💼 1+ year of professional development experience
-* 💻 Focused on **Frontend & Full-Stack Development**
-* ⚛️ Experienced with **React.js and Next.js**
-* 🐍 Currently strengthening **Python & Django**
-* 🗄️ Improving my **SQL & Database** skills
-* 🧠 Currently practicing **DSA & Problem Solving**
-* 🧪 Interested in **Software Testing & Automation**
-* 🚀 Passionate about building real-world projects
-
----
-
-## 🛠️ Technologies I Work With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,django,mysql,tailwind,mui,playwright,git,github,vscode" />
-</p>
+📫 [LinkedIn](https://www.linkedin.com/in/raman-vanjare-062aa727b) · 🌐 [Portfolio](#) · 📧 [Email](#)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 RetailIQ — AI Retail Operations Dashboard
+### ShelfSense — AI Retail Operations Platform
+An AI-powered retail operations platform for monitoring inventory, sales, and store performance in real time — built to demonstrate senior-level architecture decisions on a solo project.
+- Role-based dashboards for store ops, inventory, and sales analytics
+- REST API-driven data layer with modular, phase-based build process
+- **Stack:** React.js, Next.js, Python, SQL, REST API
+- 🔗 [Live Demo](#) · [Repo](#)
 
-A modern retail operations dashboard designed to help businesses monitor sales, inventory, operations, and business performance.
+### RetailIQ — Retail Operations Dashboard
+A business analytics dashboard that turns raw sales and inventory data into actionable insights for store managers.
+- Real-time data visualization across sales, inventory, and ops metrics
+- Role-based access control for multi-user retail teams
+- **Stack:** React.js, Next.js, Python, SQL, REST API
+- 🔗 [Live Demo](#) · [Repo](#)
 
-**Key Features**
+### Project Management Platform
+A full-stack workspace/task management tool inspired by Jira and ClickUp, built to handle multi-team project tracking.
+- Workspace → Project → Task hierarchy with role-based permissions
+- Auth and REST API integration between Next.js frontend and Django backend
+- **Stack:** Next.js, React.js, Django, SQL, REST API
+- 🔗 [Live Demo](#) · [Repo](#)
 
-* 📈 Business analytics dashboard
-* 📦 Inventory monitoring
-* 💰 Sales insights
-* 📊 Data visualization
-* 👥 User-friendly dashboard interface
-* 🔐 Role-based functionality
+### Money Management Dashboard
+A personal finance tracker for income, expenses, and spending patterns with category-level breakdowns.
+- Interactive dashboard with expense categorization and financial insights
+- Fully responsive across desktop and mobile
+- **Stack:** React.js, JavaScript, SQL, REST API
+- 🔗 [Live Demo](#) · [Repo](#)
 
-**Tech Stack**
+### Food & Grocery Delivery App
+A responsive e-commerce-style app focused on product discovery and cart flow.
+- Product search, category filters, and shopping cart with Material UI
+- **Stack:** React.js, JavaScript, HTML, CSS, Material UI
+- 🔗 [Live Demo](#) · [Repo](#)
 
-`React.js` `Next.js` `Python` `SQL` `REST API`
-
----
-
-### 📋 Project Management Platform
-
-A full-stack project management application inspired by platforms such as Jira and ClickUp.
-
-**Key Features**
-
-* 🏢 Workspace management
-* 📁 Project management
-* ✅ Task management
-* 👥 Team management
-* 📊 Project dashboard
-* 🔐 Authentication
-* 🛡️ Role-based access
-* 🔄 REST API integration
-
-**Tech Stack**
-
-`Next.js` `React.js` `Django` `SQL` `REST API`
+> 💡 Fill in the Live Demo / Repo links for each — this is the single highest-leverage edit you can make. An interviewer clicking through to a working demo beats any bullet point.
 
 ---
 
-### 💰 Money Management Dashboard
+## 💼 Experience
 
-A personal finance management application designed to help users track income, expenses, and financial activity through an interactive dashboard.
+**Software / Web Developer** — Anslation Pvt Ltd · *[start] – [end]*
+- Built and maintained responsive UI components in React.js used across [X] production pages
+- Integrated REST APIs to power live data views, reducing [manual steps / load time / whatever's true]
+- Owned testing and debugging for frontend releases, cutting [reported bugs / regression count] by [X%]
+- Collaborated via Git/GitHub in a team workflow, contributing to website operations and performance optimization
 
-**Key Features**
-
-* 💵 Income tracking
-* 💸 Expense tracking
-* 📊 Financial dashboard
-* 🏷️ Expense categorization
-* 📈 Financial insights
-* 📱 Responsive UI
-
-**Tech Stack**
-
-`React.js` `JavaScript` `SQL` `REST API`
+> Swap the bracketed parts for real numbers if you have them — even rough estimates ("~15 components," "3-person team") beat vague verbs like "worked on."
 
 ---
 
-### 🍔 Food & Grocery Delivery Application
+## 🛠️ Tech Stack
 
-A responsive food and grocery delivery web application focused on product discovery, modern UI, and a smooth user experience.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,python,django,mysql,playwright,git,github,vscode" />
+</p>
 
-**Key Features**
+**Frontend:** React.js · Next.js · JavaScript (ES6+) · TypeScript · Tailwind CSS · Material UI
+**Backend/Data:** Python · Django · SQL
+**Tooling:** Git · GitHub · Playwright · VS Code
 
-* 🍕 Food/product browsing
-* 🛒 Shopping cart
-* 🔎 Product search
-* 🏷️ Categories
-* 📱 Responsive design
-* 🎨 Modern UI
-
-**Tech Stack**
-
-`React.js` `JavaScript` `HTML` `CSS` `Material UI`
+**Currently building toward:** Python Full-Stack Development · Gen AI Integration
 
 ---
 
-## 💼 Professional Experience
-
-### Software / Web Developer
-
-Worked on web applications and contributed to frontend development, UI implementation, website operations, testing, and product development.
-
-**Responsibilities & Contributions**
-
-* ⚛️ Developed interfaces using React.js
-* 🎨 Built responsive and reusable UI components
-* 🔌 Integrated APIs with frontend applications
-* 🧩 Worked with modern UI libraries
-* 🐛 Debugged and resolved application issues
-* 🧪 Performed application testing
-* 🔀 Used Git & GitHub for version control
-* 🌐 Worked on website operations and optimization
-
----
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center">🧠<br><b>DSA</b></td>
-<td align="center">🐍<br><b>Advanced Python</b></td>
-<td align="center">🌐<br><b>Django</b></td>
-<td align="center">🗄️<br><b>SQL</b></td>
-<td align="center">🏗️<br><b>System Design</b></td>
-<td align="center">🧪<br><b>Automation Testing</b></td>
-</tr>
-</table>
-
----
-
-## 🎯 2026 Goals
-
-* 🧠 Become strong in **DSA & Problem Solving**
-* 🐍 Master **Python & Django**
-* ⚛️ Improve **React & Next.js**
-* 🗄️ Strengthen **SQL & Database Design**
-* 🏗️ Learn **System Design**
-* 🧪 Improve **Automation Testing**
-* 🌎 Contribute to **Open Source**
-* 🚀 Build more production-level applications
-* 💼 Grow as a professional Software Developer
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raman189&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman189&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Raman189&theme=tokyonight&hide_border=true" />
@@ -177,42 +86,9 @@ Worked on web applications and contributed to frontend development, UI implement
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raman189&theme=tokyo-night&hide_border=true" />
-</p>
+## 🎯 Currently Sharpening
+Python Full-Stack Development · Gen AI Integration · Advanced Python & Django · DSA & System Design
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/raman-vanjare-062aa727b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Raman189">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 My Development Philosophy
-
-> **Build → Break → Debug → Learn → Improve → Repeat**
-
-I believe the best way to learn software development is by **building real projects, solving problems, debugging mistakes, and continuously improving**.
-
----
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
+<p align="center"><i>Open to frontend / full-stack roles — let's connect.</i></p>
