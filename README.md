@@ -3,7 +3,7 @@
 
 I build production-grade web applications with React.js, Next.js, and Python — with a focus on clean UI, API integration, and shipping things that actually work end to end. Currently deepening my Python skills to move into full-stack development with Gen AI integration. B.Tech CSE, 2026. 1+ year professional experience.
 
-📫 [LinkedIn](https://www.linkedin.com/in/raman-vanjare-062aa727b) · 🌐 [Portfolio](#) · 📧 [Email](#)
+📫 [LinkedIn](https://www.linkedin.com/in/raman-vanjare-062aa727b) · 🌐 [Portfolio](#) · 📧 [Email](ramanvanjare447@gmail.com)
 
 
 ## 💼 Experience
